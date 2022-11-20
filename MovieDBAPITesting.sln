@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieDBRestSharp", "..\MovieDBRestSharp\MovieDBRestSharp.csproj", "{995B0C3F-7BF1-44D7-ABA2-2A9AF3F4E1E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APITests", "..\APITests\APITests.csproj", "{5897BBD2-C403-4D06-B982-A1207A858DCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{995B0C3F-7BF1-44D7-ABA2-2A9AF3F4E1E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{995B0C3F-7BF1-44D7-ABA2-2A9AF3F4E1E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{995B0C3F-7BF1-44D7-ABA2-2A9AF3F4E1E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{995B0C3F-7BF1-44D7-ABA2-2A9AF3F4E1E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5897BBD2-C403-4D06-B982-A1207A858DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5897BBD2-C403-4D06-B982-A1207A858DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5897BBD2-C403-4D06-B982-A1207A858DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5897BBD2-C403-4D06-B982-A1207A858DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {572456CC-ECF3-45AD-9B1E-EE57DE2C31EE}
+	EndGlobalSection
+EndGlobal
